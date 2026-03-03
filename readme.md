@@ -1,3 +1,3 @@
 # Student Portal App
 
-Login functionality added.
+This project manages student records.
