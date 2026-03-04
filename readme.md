@@ -20,34 +20,36 @@ This repository demonstrates practical implementation of Git version control con
 ## Task 1 :- Create a Repository  
 
 ![Task 1 Screenshot](./screenshots/task1.png)
-![Task 1 Screenshot](./screenshots/task1.1.png)
-![Task 1 Screenshot](./screenshots/task1.2.png)
 
 ---
 
 ## Task 2 :- Use Feature Branches  
 
 ![Task 2 Screenshot](./screenshots/task2.png)
-![Task 1 Screenshot](./screenshots/task2.1.png)
-![Task 1 Screenshot](./screenshots/task2.2.png)
+![Task 2 Screenshot](./screenshots/task2.1.png)
+![Task 2 Screenshot](./screenshots/task2.2.png)
 
 ---
 
 ## Task 3 :- Proper Commit Messages  
 
-![Task 3 Screenshot](./screenshots/task3.png)
+![Task 3 Screenshot](./screenshots/task1.1.png)
+![Task 3 Screenshot](./screenshots/task1.2.png)
 
 ---
 
 ## Task 4 :- Handle a Merge Conflict  
 
-![Task 4 Screenshot](./screenshots/task4.png)
+![Task 4 Screenshot](./screenshots/task3.png)
+![Task 4 Screenshot](./screenshots/task3.1.png)
 
 ---
 
 ## Task 5 :- Use Git Stash  
 
-![Task 5 Screenshot](./screenshots/task5.png)
+![Task 5 Screenshot](./screenshots/task4.png)
+![Task 5 Screenshot](./screenshots/task4.1.png)
+![Task 5 Screenshot](./screenshots/task4.2.png)
 
 ---
 
