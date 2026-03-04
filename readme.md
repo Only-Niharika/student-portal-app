@@ -11,8 +11,6 @@ This repository demonstrates practical implementation of Git version control con
 - Commit properly with meaningful messages
 - Handle merge conflicts
 - Use Git stash
-- Use cherry-pick
-- Clean commit history using squash
 - Push changes to GitHub
 
 ---
