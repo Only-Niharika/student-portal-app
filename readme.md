@@ -20,12 +20,16 @@ This repository demonstrates practical implementation of Git version control con
 ## Task 1 :- Create a Repository  
 
 ![Task 1 Screenshot](./screenshots/task1.png)
+![Task 1 Screenshot](./screenshots/task1.1.png)
+![Task 1 Screenshot](./screenshots/task1.2.png)
 
 ---
 
 ## Task 2 :- Use Feature Branches  
 
 ![Task 2 Screenshot](./screenshots/task2.png)
+![Task 1 Screenshot](./screenshots/task2.1.png)
+![Task 1 Screenshot](./screenshots/task2.2.png)
 
 ---
 
