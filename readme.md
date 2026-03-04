@@ -53,18 +53,6 @@ This repository demonstrates practical implementation of Git version control con
 
 ---
 
-## Task 6 :- Use Cherry-Pick  
-
-![Task 6 Screenshot](./screenshots/task6.png)
-
----
-
-## Task 7 :- Clean History Using Squash  
-
-![Task 7 Screenshot](./screenshots/task7.png)
-
----
-
 ## 🛠 Technologies Used
 
 - Git
