@@ -59,5 +59,3 @@ This repository demonstrates practical implementation of Git version control con
 - VS Code (optional)
 
 ---
-
-## 📂 Project Structure
